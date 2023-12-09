@@ -1,0 +1,12 @@
+Title: "ChronoCrypt"
+
+Concept: In "ChronoCrypt," players navigate through a series of procedurally generated dungeons. The twist is that each dungeon represents a different era in time, from ancient civilizations to futuristic landscapes. The player is a time-traveler, whose mission is to recover lost artifacts from each era, facing era-specific challenges and enemies.
+
+Gameplay Mechanics:
+
+    Time-Shifts: Randomly occurring time-shifts that transport the player to a different era, altering the dungeon layout and enemy types.
+    Era-Specific Abilities: As players progress, they unlock era-specific abilities and gear. For example, a laser gun in the futuristic era, or a magic spell in the medieval era.
+    Artifact Collection: Each era has a unique artifact that must be found and secured before moving on.
+    Permadeath with a Twist: Upon death, players lose most of their gear but retain certain key items, allowing for different strategies in subsequent runs.
+    Era-Based Puzzles: Each era has unique puzzles that require era-specific knowledge or abilities to solve.
+
